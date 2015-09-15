@@ -2,4 +2,4 @@
 Phonegap simple game
 Simple  phonegap game 
 
-my skype is nevenne
+
